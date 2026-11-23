@@ -40,8 +40,7 @@ Durante o desenvolvimento deste trabalho, serão realizados testes de segurança
 ## Referências
 
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
-- [OWASP](https://owasp.org/)
-- 
+- [OWASP](https://owasp.org/) 
 ---
 
 Trabalho acadêmico desenvolvido para fins educacionais.
